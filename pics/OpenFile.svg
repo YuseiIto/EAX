@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="_x32_" x="0px" y="0px" viewBox="0 0 1000 300" style="enable-background:new 0 0 1000 300;" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:#00A2E8;}
+</style>
+  <g style="" transform="matrix(0.419071, 0, 0, 0.46492, 71.641205, 22.364222)">
+    <path class="st0" d="M378.409,0H208.294h-13.175l-9.315,9.314L57.016,138.102l-9.314,9.314v13.176v265.513&#10;&#9;&#9;c0,47.361,38.528,85.896,85.896,85.896h244.811c47.36,0,85.888-38.535,85.888-85.896V85.895C464.298,38.528,425.769,0,378.409,0z&#10;&#9;&#9; M432.494,426.104c0,29.877-24.215,54.092-54.084,54.092H133.598c-29.877,0-54.092-24.215-54.092-54.092V160.591h83.717&#10;&#9;&#9;c24.885,0,45.07-20.179,45.07-45.07V31.804h170.116c29.87,0,54.084,24.214,54.084,54.091V426.104z"/>
+  </g>
+  <text x="68.914" y="193.611" transform="matrix(0.737435, 0, 0, 0.791646, 247.325607, -14.242038)" style="fill: rgb(0, 162, 232); font-family: Avenir, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, Roboto, 游ゴシック, &quot;Yu Gothic&quot;, 游ゴシック体, YuGothic, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;Meiryo UI&quot;, メイリオ, Meiryo, &quot;ＭＳ Ｐゴシック&quot;, &quot;MS PGothic&quot;, sans-serif; font-size: 117.477px; letter-spacing: 9.5px; word-spacing: -5.3px; white-space: pre;">ファイルを選択</text>
+  <text x="389.776" y="222.844" style="fill: rgb(0, 162, 232); font-family: sans-serif; font-size: 37px; stroke-width: 6px; white-space: pre;">Click Or Drag and Drop</text>
+</svg>
