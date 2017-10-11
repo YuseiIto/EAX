@@ -85,7 +85,7 @@ This software includes
 ("Useful award" by Nippon Jimuki Co.,Ltd.)
 
 ### 「PCNこどもプロコン 2017 夏」
-#### (PCN children programming contest of summer in 2017)
+#### (PCN  programming contest for children of summer in 2017)
 * さくらインターネット賞
 (The award SAKURA Internet)
 
