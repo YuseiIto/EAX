@@ -1,0 +1,126 @@
+﻿
+.card{
+border:solid  1px #EFEFEF;
+margin-right:10px;
+}
+.card:hover{
+border-bottom: solid 3px #00A2E8;
+}
+
+
+
+
+body {
+appearance: none;
+	background-color:#ffffff;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+
+p,a,td,th,li{
+	font-size:15pt;
+	letter-spacing: +3;
+color:#0A0A0A;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+.copyright{
+	font-size:13pt;
+	text-align:center;
+color:#1F1F1F;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+
+a{
+ 
+	font-size:15pt;
+	letter-spacing: +1;
+color:#6495ED;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+
+
+
+
+h1{
+font-size:40pt;
+color:#00A2E8;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+	
+}
+
+h2{
+font-size:35pt;
+color:#00A2E8;	
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+h3{
+font-size:30pt;
+color:#00A2E8;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+	
+}
+
+h4{
+font-size:25pt;
+color:#00A2E8;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+h5{
+font-size:20pt;
+color:#00A2E8;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+h6{
+font-size:15pt;
+color:#00A2E8;
+font-family:Avenir , 'Open Sans' , 'Helvetica Neue' , Helvetica , Arial , Verdana , Roboto , '游ゴシック' , 
+'Yu Gothic' , '游ゴシック体' , 'YuGothic' , 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'Meiryo UI' ,
+ 'メイリオ' , Meiryo , 'ＭＳ Ｐゴシック' , 'MS PGothic' , sans-serif;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  line-height: 1.5;
+}
+
+th {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+}
+td {
+  width: 350px;
+  padding: 10px;
+  vertical-align: top;
+ }
+
+tr:nth-child(even) {
+  background: #d9d9d9;
+ }
+
