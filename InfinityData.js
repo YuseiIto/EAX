@@ -72,7 +72,6 @@ InfinityData.prototype = {
 
             var retext = "";
 
-            //確認表示
 
             do {
                 var n = String(text).indexOf("&#");
